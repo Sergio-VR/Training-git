@@ -4,4 +4,4 @@
 
 Contacto: sergio.vraso@alumnos.upm.es
 
-![alt text] C:\Users\user\Desktop\Git>2020-nissan-gt-r-nismo.jpg
+![alt text] (https://github.com/Sergio-VR/Training-git/blob/main/2020-nissan-gt-r-nismo.jpg)
