@@ -6,7 +6,7 @@
 
 int main()
 {
-	uint32_t a,b,c;
+	uint32_t a = 0,b = 0,c = 0;
 	uint16_t u,i;
 	i=0;
 	u = 12;
