@@ -26,7 +26,8 @@ int main()
 
 	printf("Mensaje nuevo");
 
-	error intencionado a subsanar 
+	//error intencionado a subsanar 
+	// Error subsanado 
 
 	return 0;
 } 
