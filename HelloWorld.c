@@ -24,5 +24,7 @@ int main()
 		printf("c tiene el valor: %u \r\n", c); 
 	}
 
+	printf("Mensaje nuevo");
+
 	return 0;
 } 
